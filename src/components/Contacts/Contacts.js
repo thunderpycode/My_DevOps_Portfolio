@@ -362,7 +362,7 @@ function Contacts() {
                                 >
                                     <FaMediumM aria-label='Medium' />
                                 </a>
-                            )}
+                           )}  
                             
                             {/* {socialsData.blogger && (
                                 <a
