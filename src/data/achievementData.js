@@ -15,7 +15,7 @@ export const achievementData = {
         },
         {
             id : 2,
-            title : 'AWS: Solutions Architect',
+            title : 'AWS: Solutions Architect Associate',
             details : 'AWS Certified Solutions Architect - Associate showcases knowledge and skills in AWS technology, across a wide range of AWS services.',
             date : 'October 30, 2022',
             field : 'Cloud,DevOps',

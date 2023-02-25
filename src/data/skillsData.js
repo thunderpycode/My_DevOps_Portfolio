@@ -1,6 +1,5 @@
-import kube from '../jpg/kube.jpeg'
 export const skillsData = [
-    'kube',
+    'kubernetes',
     "Docker",
     'Azure',
     'GCP',

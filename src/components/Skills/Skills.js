@@ -25,7 +25,7 @@ function Skills() {
                 <div className="skill--scroll">
                     <Marquee 
                         gradient={false} 
-                        speed={90} 
+                        speed={120} 
                         pauseOnHover={true}
                         pauseOnClick={false} 
                         delay={0}
@@ -35,7 +35,6 @@ function Skills() {
                         {skillsData.map((skill, id) => (
                             <div className="skill--box" key={id} style={skillBoxStyle}>
                                 <img src={skillsImage(skill)} alt={skill} />
-                                <img src='../jpg/kube.jpeg' alt={skill} />
                                 <h3 style={{color: theme.tertiary}}>
                                     {skill}
                                 </h3>
