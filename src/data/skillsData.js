@@ -9,9 +9,9 @@ export const skillsData = [
     'Javascript',
     'MySQL',
     'Python',
-    "Git",
-   
-    "Microsoft Office"
+    'Nginx',
+    'Git',
+    'Microsoft Office'
   
 ]
 
