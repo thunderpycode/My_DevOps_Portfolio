@@ -213,7 +213,7 @@ function Contacts() {
                                     onChange={(e) => setMessage(e.target.value)}
                                     type='text'
                                     name='Message'
-                                    className={`form-message ${classes.message}`}
+                                    className={`form-input ${classes.message}`}
                                 />
                             </div>
 

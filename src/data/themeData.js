@@ -1,4 +1,5 @@
 /* eslint-disable */
+import { RedeemSharp } from '@material-ui/icons'
 import { pinkThemegirl } from '../theme/images'
 import { 
     greenThemeLight, greenThemeDark, bwThemeLight, bwThemeDark, blueThemeLight, blueThemeDark, redThemeLight, redThemeDark, orangeThemeLight, orangeThemeDark, purpleThemeLight, purpleThemeDark, pinkThemeLight, pinkThemeDark, yellowThemeLight, yellowThemeDark
@@ -6,7 +7,7 @@ import {
 
 
 export const themeData = {
-    theme: orangeThemeDark
+    theme: yellowThemeDark
 }
 
 

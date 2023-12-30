@@ -4,7 +4,7 @@ import  azure_devops from '../jpg/devops.jpeg'
 import  aws  from '../jpg/awsarch.jpeg'
 import  sfmc  from '../jpg/sfmc.jpeg'
 export const achievementData = {
-    bio : "Being a cloud enthusiast, I have done some certifications to showcase my expertise in some areas of cloud",
+    bio : "Being a cloud enthusiast, I have done some certifications to showcase my expertise in some areas of cloud. Got Spot Award two times For resolving frequent build failures and troubleshooting deployment failure via release pipeline on Production Environment. And, Provided training to freshers in DevOps CI/CD, Cloud and Build tools.",
     achievements : [
         {
             id : 1,
