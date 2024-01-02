@@ -38,7 +38,6 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://thunderpycode.github.io/Abhishek_Portfolio",
   "browserslist": {
     "production": [
       ">0.2%",
