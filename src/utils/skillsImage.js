@@ -1,4 +1,7 @@
 import gcp from '../assets/svg/skills/gcp.svg'
+import kubernetes from '../assets/svg/skills/kubernetes.png'
+import jenkins from '../assets/svg/skills/jenkins.png'
+import terraform from '../assets/svg/skills/terraform.png'
 import html from '../assets/svg/skills/html.svg'
 import photoshop from '../assets/svg/skills/photoshop.svg'
 import illustrator from '../assets/svg/skills/illustrator.svg'
@@ -83,6 +86,12 @@ export const skillsImage = (skill) => {
     switch (skillID) {
         case 'gcp':
             return gcp;
+        case 'terraform':
+            return terraform;
+        case 'jenkins':
+            return jenkins;
+        case 'kubernetes':
+            return kubernetes;
         case 'html':
             return html;
         case 'photoshop':

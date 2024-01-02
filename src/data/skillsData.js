@@ -11,6 +11,8 @@ export const skillsData = [
     'Python',
     'Nginx',
     'Git',
+    'Jenkins',
+    'Terraform',
     'Microsoft Office'
   
 ]
