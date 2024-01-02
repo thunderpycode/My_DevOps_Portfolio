@@ -1,6 +1,11 @@
 export const skillsData = [
+    'Jenkins',
+    'Terraform',
+    'Nexus',
+    'Jfrog',
     'kubernetes',
     "Docker",
+    'Maven',
     'Azure',
     'GCP',
     'AWS',
@@ -11,10 +16,8 @@ export const skillsData = [
     'Python',
     'Nginx',
     'Git',
-    'Jenkins',
-    'Terraform',
     'Microsoft Office'
-  
+   
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
