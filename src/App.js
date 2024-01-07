@@ -12,8 +12,8 @@ function App() {
 
   const { theme } = useContext(ThemeContext);
 
-  console.log("%cDEVELOPER PORTFOLIO", `color:${theme.primary}; font-size:50px`);
-  console.log("%chttps://github.com/hhhrrrttt222111/developer-portfolio", `color:${theme.tertiary}; font-size:20px`);
+  console.log("%cDevOps PortfolioFOLIO", `color:${theme.primary}; font-size:50px`);
+  console.log("%chttps://github.com/thunderpycode/My_DevOps_Portfolio/", `color:${theme.tertiary}; font-size:20px`);
   // console.log = console.warn = console.error = () => {};
 
   return (
